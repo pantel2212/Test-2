@@ -3,3 +3,4 @@ print ("Saved on git")
 
 ## And nowe we add this
 print ("pervij test ok")
+print ("fff")
